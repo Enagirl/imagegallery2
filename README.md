@@ -1,4 +1,4 @@
-# imagegallery2
+
 
 1. firstly i created a new repository  on my github and made sure to add a read me file to it
 2. then i copied the link of the repository just created
