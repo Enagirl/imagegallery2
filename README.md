@@ -14,3 +14,4 @@
 12. then i went to my github to check if hat i did was correct
 13. after that i went back to my VS code and edited my images using my css file
 14. then i went back to my source control and wrote a discriptive message and commited and pushed 
+15. then i hosted it  
